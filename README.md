@@ -10,6 +10,8 @@ We extend a warm welcome as you embark on the journey of setting up your account
 
 3.  **Starting a project:** Once your OSF account is successfully established, explore our instructions on navigating the OSF dashboard and initiating a new research project.
 
+4. **Linking a third-party service:**
+
 #### References
 
 1.
