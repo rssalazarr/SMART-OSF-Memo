@@ -18,6 +18,8 @@ We extend a warm welcome as you embark on the journey of setting up your account
 
 6. **Adding contributors:** Discover how to collaborate effectively by adding contributors to your projects, enabling seamless teamwork and data sharing.
 
+7. **Changing project visibility:** Manage the privacy and visibility settings of your OSF projects and components to control who can access and view your research.
+
 **_References:_**
 
 1. 
