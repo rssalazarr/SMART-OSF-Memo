@@ -12,17 +12,13 @@ We extend a warm welcome as you embark on the journey of setting up your account
 
 3.  **Starting a project:** Once your OSF account is successfully established, explore our instructions on navigating the OSF dashboard and initiating a new research project.
 
-4. **Linking third-party services:**
-   
-5. **Adding components and contributors:**
-   
-6. **Changing project visibility:**
+4. **Linking third-party services:** Learn how to connect and integrate third-party services and tools with your OSF account to streamline your research workflow.
 
-7. **Sharing the project:**
+5. **Adding components:** Understand how to create and manage components within your research project, allowing for a more organized and structured approach to your work.
 
-8. **Discovering new projects:**
+6. **Adding contributors:** Discover how to collaborate effectively by adding contributors to your projects, enabling seamless teamwork and data sharing.
 
-#### References
+**_References:_**
 
-1.
+1. 
 
