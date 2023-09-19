@@ -22,5 +22,6 @@ We extend a warm welcome as you embark on the journey of setting up your account
 
 **_References:_**
 
-1. 
-
+1. Center for Open Science. (n.d.). Getting Started on the OSF. OSF Help. Retrieved September 19, 2023, from https://help.osf.io/article/342-getting-started-on-the-osf
+2. Research Guides @ Case Western Reserve University. (n.d.). OSF: Home - OSF - Research Guides at Case Western Reserve University. Retrieved September 19, 2023, from https://researchguides.case.edu/OSF
+3. OpenAI. (2023). ChatGPT. https://openai.com/research/chatgpt. Retrieved September 19, 2023.
