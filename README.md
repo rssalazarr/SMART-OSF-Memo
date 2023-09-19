@@ -1,3 +1,9 @@
+# Welcome to our SMART-OSF Wiki Memo!
+
+![Getting started -Mind map](https://github.com/rssalazarr1/RC2-OSF-memo/blob/main/OSF%20benefits_v1.0.1.jpg)
+
+We extend a warm welcome as you embark on the journey of setting up your account within the Open Science Framework (OSF) platform. This wiki memo is tailored to assist you, whether you are a novice user or simply seeking a quick refresher. Our aim is to make the account setup process seamless and straightforward.
+
 **_Navigating This Guide:_**
 
 1.  **Getting Started:** Begin with a brief introduction to OSF and explore the advantages it offers for your academic research.
@@ -6,15 +12,17 @@
 
 3.  **Starting a project:** Once your OSF account is successfully established, explore our instructions on navigating the OSF dashboard and initiating a new research project.
 
-4. **Linking third-party services:** Learn how to connect and integrate third-party services and tools with your OSF account to streamline your research workflow.
+4. **Linking third-party services:**
+   
+5. **Adding components and contributors:**
+   
+6. **Changing project visibility:**
 
-5. **Adding components:** Understand how to create and manage components within your research project, allowing for a more organized and structured approach to your work.
+7. **Sharing the project:**
 
-6. **Adding contributors:** Discover how to collaborate effectively by adding contributors to your projects, enabling seamless teamwork and data sharing.
+8. **Discovering new projects:**
 
-7. **Changing project visibility:** Manage the privacy and visibility settings of your OSF projects and components to control who can access and view your research.
+#### References
 
-**_References_**
-
-1. 
+1.
 
