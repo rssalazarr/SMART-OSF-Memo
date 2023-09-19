@@ -6,9 +6,9 @@ We extend a warm welcome as you embark on the journey of setting up your account
 
 1.  **Getting Started:** Begin with a brief introduction to OSF and explore the advantages it offers for your academic research.
 
-2.  **Starting a project:** Find detailed, step-by-step instructions on how to create your OSF account. This section covers essential information, including user prerequisites, security recommendations, and various account types.
+2.  **Creating an account:** Find detailed, step-by-step instructions on how to create your OSF account. This section covers essential information, including user prerequisites, security recommendations, and various account types.
 
-3.  **Creating an account:** Once your OSF account is successfully established, explore our instructions on navigating the OSF dashboard and initiating a new research project.
+3.  **Starting a project:** Once your OSF account is successfully established, explore our instructions on navigating the OSF dashboard and initiating a new research project.
 
 #### References
 
