@@ -18,9 +18,3 @@
 
 1. 
 
-8. **Discovering new projects:**
-
-#### References
-
-1.
-
