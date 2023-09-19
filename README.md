@@ -1,4 +1,4 @@
-# Welcome to our OSF Wiki Memo!
+# Welcome to our SMART-OSF Wiki Memo!
 
 We extend a warm welcome as you embark on the journey of setting up your account within the Open Science Framework (OSF) platform. This wiki memo is tailored to assist you, whether you are a novice user or simply seeking a quick refresher. Our aim is to make the account setup process seamless and straightforward.
 
