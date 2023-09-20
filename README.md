@@ -6,6 +6,16 @@ We extend a warm welcome as you embark on the journey of setting up your account
 
 **_Navigating This Guide_** (_Go to the Wiki section to further the explanations of these contents_):
 
+**Pathway**                                 | **Description**
+---                                         | ---
+**Getting Started** | Begin with a brief introduction to OSF and explore the advantages it offers for your academic research.
+**Creating an account** | Find detailed, step-by-step instructions on how to create your OSF account. This section covers essential information, including user prerequisites, security checks, and account types.                                  
+**Starting a project** | Once your OSF account is successfully established, explore our instructions on navigating the OSF dashboard and initiating a new research project.
+**Linking third-party services** | Learn how to connect and integrate your favorite third-party services (e.g., Box, Drive, GitHub) and tools with your OSF account to streamline the research workflow.
+**Adding components** | Understand how to create and manage components within your research project, allowing for a more organized and structured approach to your work.
+**Adding contributors** | Discover how to collaborate effectively by adding contributors to your projects, enabling seamless teamwork and data sharing.
+**Changing project visibility** | Manage the privacy and visibility settings of your OSF projects and components to control who can access and view your research.
+
 1.  **Getting Started:** Begin with a brief introduction to OSF and explore the advantages it offers for your academic research.
 
 2.  **Creating an account:** Find detailed, step-by-step instructions on how to create your OSF account. This section covers essential information, including user prerequisites, security recommendations, and various account types.
