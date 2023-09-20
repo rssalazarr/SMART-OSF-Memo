@@ -2,7 +2,7 @@
 
 ![Getting started -Mind map](https://github.com/rssalazarr1/SMART-OSF/blob/main/Images/OSF%20benefits_v1.2.0.jpg)
 
-We extend a warm welcome as you embark on the journey of setting up your account within the Open Science Framework (OSF) platform. This wiki memo is tailored to assist you, whether you are a novice user or simply seeking a quick refresher. Our aim is to make the account setup process seamless and straightforward.
+We extend a warm welcome as you embark on the journey of setting up your account within the Open Science Framework (OSF) platform. This memo is tailored to assist you, whether you are a novice user or simply seeking a quick refresher. Our aim is to make the account setup process seamless and straightforward.
 
 **_Navigating This Guide:_**
 
