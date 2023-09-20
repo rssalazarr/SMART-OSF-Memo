@@ -1,4 +1,4 @@
-# Welcome to our SMART-OSF Wiki Memo!
+# Welcome to our SMART-OSF Memo!
 
 ![Getting started -Mind map](https://github.com/rssalazarr1/RC2-OSF-memo/blob/main/Images/OSF%20benefits_v1.0.1.jpg)
 
