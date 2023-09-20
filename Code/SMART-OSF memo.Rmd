@@ -1,0 +1,295 @@
+---
+title:  "Welcome to our SMART-OSF Memo!"
+author: "_Robinson Salazar Rua and Peter Hovmand_"
+date:
+output: 
+  html_document :
+    theme: united
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+We extend a warm welcome as you embark on the journey of setting up your account within the Open Science Framework (OSF) platform. This memo is tailored to assist you, whether you are a novice user or simply seeking a quick refresher. Our aim is to make the account setup process seamless and straightforward.
+
+**Pathway**                                 | **Description**
+---                                         | ---
+1.  [**Getting Started**](#getting-started) | Begin with a brief introduction to OSF and explore the advantages it offers for your academic research.
+2.  [**Creating an account**](#creating-an-account) | Find detailed, step-by-step instructions on how to create your OSF account. This section covers essential information, including user prerequisites, security checks, and account types.                                  
+3.  [**Starting a project**](#starting-a-project)| Once your OSF account is successfully established, explore our instructions on navigating the OSF dashboard and initiating a new research project.
+4. [**Linking third-party services**](#linking-third-party-services) | Learn how to connect and integrate your favorite third-party services (e.g., Box, Drive, GitHub) and tools with your OSF account to streamline the research workflow.
+5. [**Adding components**](#adding-components) | Understand how to create and manage components within your research project, allowing for a more organized and structured approach to your work.
+6. [**Adding contributors**](#adding-contributors) | Discover how to collaborate effectively by adding contributors to your projects, enabling seamless teamwork and data sharing.
+7. [**Changing project visibility**](#changing-project-visibility) | Manage the privacy and visibility settings of your OSF projects and components to control who can access and view your research.
+
+## 1. Getting started
+
+![](C:/Users/rss188/Desktop/SMART-OSF/OSF benefits_v1.2.0.jpg)
+
+The Open Science Framework (OSF) is a free and open-source platform established by the Center for Open Science, serving as a versatile tool for researchers and collaborators. It offers cloud-based storage, sharing, and version control for a wide range of data, documents, and files. Key points about OSF include:
+
+1. **Data Management and Storage:** OSF provides a platform for the storage of an unlimited number of files, with no restrictions on types or numbers. It offers automatic version control, allowing easy tracking of changes. Storage capacity includes up to 5GB per component for private projects and 50GB for public ones, with unlimited components allowed.
+
+2. **Collaboration:** Users can invite colleagues, students, or collaborators to view, edit, and download data. Granular permissions can be set to protect sensitive information. Document templates and e-lab notebooks can be created to guide workflows.
+
+3. **Publicization:** OSF can assign Digital Object Identifiers (DOIs) to data, papers, and files, enhancing their visibility. Researchers can upload preprints and create catalogs of conference posters, increasing academic exposure.
+
+4. **Preservation:** OSF performs daily backups for uploaded files, ensuring data safety. Storage is free, with unlimited buckets available to organize data.
+
+5. **Data Sharing:** OSF allows control over data access, from public availability to private viewing. Collaborators on project pages can have different privilege levels, and metadata tags can be added for better searchability.
+
+6. **Workflow Simplification:** The platform integrates with various services like Box, Google Drive, and Github, streamlining data sharing and organization. Templates can be used to standardize data collection processes.
+
+7. **Transparency and Openness:** OSF supports the open data movement by making data and methods accessible. This aligns with requirements from funding agencies and institutions, promoting reproducibility and impact.
+
+8. **Grants and Publications:** Users can create data management plans, generate DOIs, and produce preprints to facilitate project development and publication. 
+
+
+In summary, the Open Science Framework (OSF) represents a valuable asset for researchers and academics in the realm of research and data management. Its user-friendly interface ensures that technical expertise is not a prerequisite for its effective utilization. OSF serves as an invaluable resource, facilitating collaboration, ensuring the secure storage of research materials, and enhancing the visibility of scholarly work, all with ease and efficiency.
+
+## 2. Creating an account
+
+By following these step-by-step instructions, you can easily create an OSF account.
+
+* **Step 1: Visit the OSF Website**
+   * Open your web browser and go to the OSF website by clicking on this [OSF website link](https://osf.io/).
+
+* **Step 2: Access the Sign-Up Page**
+   * On the OSF homepage, locate the "Sign Up" button located in the top right corner and click on it.
+
+* **Step 3: Choose Your Account Creation Method**
+  - You have two options for creating your OSF account:
+    - **Option 1: Using ORCiD or Institutional Credentials**
+      - If you have an ORCiD account or are affiliated with one of OSF's Partner Institutions, select the "ORCID" button.
+      - Follow the provided instructions to link your existing credentials to OSF.
+    - **Option 2: Manual Account Creation**
+      - Alternatively, create an OSF account manually by entering your name, email address, and a password into the respective fields.
+
+* **Step 4: Review and Accept Terms**
+   - Before proceeding, it's essential to read and review the "Terms Of Use" and "Privacy Policy."
+   - If you agree to these terms, check the box next to "I have read and agree."
+
+* **Step 5: Verify Your Identity**
+   - To confirm that you're a real user and not a bot, check the "I'm not a robot" box.
+
+* **Step 6: Complete the Registration**
+   - Finally, click the "Sign up" button to complete the account creation process.
+
+* **Step 7: Confirmation Email and Activation**
+   - After completing these steps, you will receive a confirmation email from OSF at the email address you provided.
+   - To activate your OSF account, click the link provided in the confirmation email.
+   - Congratulations! Your OSF account is now officially created and ready to use.
+   
+## 3. Starting a project  
+
+By following these step-by-step instructions, you can easily set up your research project on OSF.
+   
+* **Step 1: Sign In**
+  - Begin by signing in to your OSF account using your login credentials.
+
+* **Step 2: Access Your Dashboard**
+  - Once logged in, you will land on your dashboard. Locate the "Create new project" button on this page and click it.
+
+* **Step 3: Create New Project**
+  - A modal titled "Create new project" will appear on your screen.
+
+* **Step 4: Enter Project Title**
+  - In the "Title" field, enter a descriptive title for your research project, succinctly capturing its essence.
+
+* **Step 5: Add Institutional Affiliation (Optional)**
+  - If desired, select your institution from the available options to add an institutional affiliation to your project. This step is optional.
+
+* **Step 6: Choose Storage Location**
+  - Choose a storage location from the provided list. The default global location is typically pre-selected.
+
+* **Step 7: Provide Project Description (Optional)**
+  - Optionally, in the "Description" field, you can provide a brief description of your project. This description aids collaborators and others in understanding your project's purpose and scope.
+
+* **Step 8: Replicate Project Structure (Optional)**
+  - If you have an existing project structure you want to replicate, select a project from the menu. This will copy the project's structure without its content.
+
+* **Step 9: Create Your Project**
+  - To initiate the project creation process, click the "Create" button.
+
+* **Step 10: Project Overview**
+  - Your new project will be successfully created, and you will be directed to the "Project Overview" page. Here, you can manage your project, including tasks such as adding files, inviting collaborators, and organizing your research efforts.
+
+## 4. Linking third-party services
+
+By following these step-by-step instructions, you can easily integrate your favorite third-party services (e.g., Box, Drive, GitHub) to OSF.
+
+* **Step 1: Open the Project and access Add-ons**
+   - Open your project in the OSF dashboard.
+   - Click on the "Add-ons" tab located in the navigation bar. This is where you can manage and configure various add-ons for your project.
+
+* **Step 2: Enable Box/Drive/GitHub**
+   - In the list of available add-ons, find and select the service you would like to link to your OSF platform.
+   - Click the "Enable" link next to the third-party service add-on. This action will activate the service integration for your project.
+   - Review and accept any terms or permissions that may appear by clicking the "Confirm" button.
+
+* **Step 3: Configure your Box/Drive/GitHub**
+   - If you encounter a "permission denied error," it may be because CWRU needs to authorize the OSF platform to access the specific third-party service that you are interested on. Contact support@osf.io for assistance.
+   - In the "Configure Add-ons" section, locate the service integration and click the "Connect Account" link. This step is essential for linking your Box/Drive/GitHub account to the OSF.
+   - Log in to your third-party service account when prompted.
+   - Grant access to the service integration by clicking the "Grant access to Box/Drive/Github" button.
+   - Your Box/Drive/GitHub folders and files should now be imported into your project.
+
+* **Step 4: Select a Folder**
+   - From the imported Box/Drive/GitHub folders and files, choose the specific folder you want to connect to your project.
+   - Click the "Save" button to confirm your selection.
+
+* **Step 5: Completion**
+   - Box/Drive/GitHub is now successfully connected to your project, and you can access and manage your files within the OSF platform.
+   
+## 5. Adding components  
+
+By following these step-by-step instructions, you can easily add components to your project on OSF to create a nested hierarchy.
+   
+* **Step 1: Open the Project**
+  - Start by opening the project to which you want to add a component.
+
+* **Step 2: Access the Project Overview Page**
+  - You will be redirected to your "Project Overview" page.
+
+* **Step 3: Initiate Component Addition**
+  - On your "Project Overview" page, locate and click the "Add Component" button.
+
+* **Step 4: Create New Component**
+  - A modal titled "Create new component" will appear.
+
+* **Step 5: Enter Component Title**
+  - In the modal, enter a title for your component into the "Title" field.
+
+* **Step 6: Add Institutional Affiliation (Optional)**
+  - If you are signed in through an institutional portal, your projects may be affiliated with your institution by default. You can deselect the institution if you prefer not to have this affiliation.
+
+* **Step 7: Choose Storage Location**
+  - Next, click inside the "Storage location" menu and select a location from the available options, such as United States, Canada - Montréal, or Germany - Frankfurt.
+
+* **Step 8: Inherit Contributors and Tags**
+  - To add contributors and tags from the parent project to the component, check the corresponding boxes.
+
+* **Step 9: Provide Component Description or Category (Optional)**
+  - Click the "More" button, and a drop-down section will appear.
+  - Enter a summary of your project in the "Description" field.
+  - Select a category from the menu. "Uncategorized" is selected by default but can be changed.
+
+* **Step 10: Complete Your Component**
+  - Your component will be created.
+  - Click the "Go to new component" button in the modal to navigate to your "Component Overview" page.
+
+## 6. Adding contributors
+
+By following these step-by-step instructions, you can easily add contributors to your projects and components on OSF.
+
+* **Step 1: Open Your Project**
+  - Access your project and click the "Contributors" tab in the navigation bar.
+
+* **Step 2: Access Contributors Page**
+  - You'll land on the "Contributors" page, displaying project or component contributors and their permissions.
+
+* **Step 3: Initiate Contributor Addition**
+  - Click the green "+Add" button at the top of the page.
+
+* **Step 4: Search for Collaborators**
+  - Type your contributor's name into the search box and click "Search." Email address search is not supported.
+
+* **Step 4.1: Add an Unregistered Contributor**
+  - Type the contributor's name into the search field.
+  - Click the "add as an unregistered contributor" link.
+
+* **Step 4.2: Enter Details for Unregistered Contributor**
+  - Enter the contributor's name and email address in the respective fields.
+  - Click the green "Add" button.
+
+* **Step 4.3: Set Bibliographic Status and Permissions for Unregistered Contributor**
+  - In the "Adding" column of the modal, choose bibliographic status and permissions.
+  - Click the green "Add" button.
+
+* **Step 4.4: Notify Unregistered Contributor**
+  - The unregistered contributor will receive an email notification with a link to claim their OSF account.
+
+* **Step 4.5: Add a Registered Contributor**
+  - Enter the name of the contributor into the search field.
+  - Click the green "+" button next to their name.
+
+* **Step 4.6: Set Bibliographic Status and Permissions for Registered Contributor**
+  - In the "Adding" column of the modal, choose bibliographic status and permissions.
+  - Click the green "Add" button.
+
+* **Step 4.7: Contributor Added**
+  - The contributor will now be added to the project.
+
+* **Step 5: Add Contributors to Components**
+  - If your project has components, you will see a blue "Next" button in the "Add Contributors" modal.
+  - Click "Next" to proceed.
+
+* **Step 6: Select Components**
+  - The "Select Components" modal will appear.
+  - Choose the components to which you want to add the contributor.
+  - Note: You must be an administrator on the component to add contributors to it.
+
+* **Step 7: Finalize Addition**
+  - Click the green "Add" button.
+  - The contributor will now be added to your project and the selected component(s).
+
+## 7. Changing project visibility
+
+By following these step-by-step instructions, you can easily manage the privacy settings of your projects and components on OSF.
+
+* **Step 1: Understand Privacy Settings**
+  - To check the privacy status of your project or component, observe the Private or Public toggle button in the top right of the "Project Overview" or "Component Overview" page.
+  - For components, look for a lock symbol next to the component name on the "Project Overview" page. A lock symbol indicates a private component, while no lock symbol means it's public.
+
+* **Step 2: Make Your Project or Components Public**
+
+* **Step 2.1: Initiate Public Setting Change**
+  - By default, projects and components are private.
+  - To make your project or component(s) public, click the "Make Public" toggle button on the respective overview page.
+
+* **Step 2.2: Review Data for Sensitivity**
+  - A modal will appear, prompting you to review your data for sensitive information before making your project or component(s) public.
+  - After reviewing your data, click "Continue."
+
+* **Step 2.3: Select Components (If Applicable)**
+  - If your project has components, a second modal will appear, allowing you to choose which components to make public.
+  - Only administrators of the component can select components in this modal.
+  - Click "Continue" to proceed.
+
+* **Step 2.4: Confirm Public Settings**
+  - A final modal will appear, confirming your decision to make your project and selected components (if any) public.
+  - You can go back to change which components you want to make public or click "Cancel" to keep your project and selected components private.
+  - When ready, click "Confirm."
+
+* **Step 2.5: Public Status**
+  - Your project and selected components (if any) will now be made public.
+
+* **Step 3: Make Your Project or Components Private**
+
+* **Step 3.1: Initiate Private Setting Change**
+  - To make your project and/or components private, click the "Make Private" toggle button on the respective overview page.
+
+* **Step 3.2: Review Information**
+  - A modal will appear, providing information about the implications of making your project and/or components private.
+  - Click "Continue." If you don't have components, your project will become private after clicking "Continue."
+
+* **Step 3.3: Select Components (If Applicable)**
+  - For projects with components, a second modal will appear, enabling you to select which components to make private.
+  - Note: Non-administrators won't have the option to select components.
+  - Click "Continue" to proceed.
+
+* **Step 3.4: Confirm Private Settings**
+  - A final modal will appear, confirming your choice to make your project and selected components (if any) private.
+  - You can revisit your selection of components or click "Cancel" to maintain your project and selected components' public status.
+  - When ready, click "Confirm."
+
+* **Step 3.5: Private Status**
+  - Your project and selected components will now be made private.
+  
+**_References:_**
+
+1. Center for Open Science. (2023). Getting Started on the OSF. OSF Help. Retrieved September 19, 2023, from https://help.osf.io/article/342-getting-started-on-the-osf
+2. Research Guides @ Case Western Reserve University. (2023). OSF: Home - OSF - Research Guides at Case Western Reserve University. Retrieved September 19, 2023, from https://researchguides.case.edu/OSF
+3. OpenAI. (2023). ChatGPT. Retrieved September 19, 2023, from https://openai.com/research/chatgpt.
